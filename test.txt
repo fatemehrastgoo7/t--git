@@ -1,0 +1,11 @@
+"hello world"
+ Volume in drive H is New Volume
+ Volume Serial Number is 8024-084D
+
+ Directory of H:\bozorgmehr
+
+03/03/2017  05:32 PM    <DIR>          .
+03/03/2017  05:32 PM    <DIR>          ..
+03/03/2017  05:32 PM                15 test.txt
+               1 File(s)             15 bytes
+               2 Dir(s)  93,910,110,208 bytes free
